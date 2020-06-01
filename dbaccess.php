@@ -41,10 +41,6 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
-<<<<<<< HEAD
-Add comment by Ketsubun
-=======
 Add comment by TAN
->>>>>>> 128b7bc0efaf8a48faf3c6bac329c8e83657c9f1
 </body>
 </html>
